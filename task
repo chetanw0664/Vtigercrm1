@@ -1,6 +1,9 @@
-class task{
-public static void main(String[]args){
-int chetan=100;
-System.out.println("chetan");
+class Task
+{
+public static void main(String[]args)
+{
+
+  System.out.println("chetan");
+  System.out.println("wakale");
 }
 }
