@@ -1,5 +1,6 @@
 class task{
 public static void main(String[]args){
+int chetan=100;
 System.out.println("chetan");
 }
 }
