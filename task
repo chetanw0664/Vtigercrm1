@@ -4,6 +4,7 @@ public static void main(String[]args)
 {
 
   System.out.println("chetan");
+  System.out.println("suresh"):
   System.out.println("wakale");
 }
 }
